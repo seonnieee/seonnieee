@@ -1,5 +1,7 @@
-<h1 align='center'>👋 Hi, I’m kiseon Lee</h1>
-<h2 align='center'>😊Nice to meet you</h2>
+<p>
+  <h1 align='center'>👋 Hi, I’m kiseon Lee</h1>
+  <h2 align='center'>😊Nice to meet you</h2>
+</p>
 
 <h4 align='center'>📫 How to reach me</h4>
 <p align='center'>
