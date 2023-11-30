@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seonnieee
+<h1>👋 Hi, I’m @seonnieee</h1>
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me
