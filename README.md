@@ -1,6 +1,14 @@
-<h1 style="textAlign:center">👋 Hi, I’m kiseon Lee</h1>
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+<h1 align='center'>👋 Hi, I’m kiseon Lee</h1>
+<p align='center'>
+ 💌E-mail <a href="mailto:kseon329@naver.com"><img src="https://img.shields.io/badge/naver-#03C75A?style=for-the-badge&logo=기술스택아이콘&logoColor=white"></a>
+</p>
+
+<h4 align='center'>👀 I’m interested in programming!</h4>
+
+ 💻 I’m currently working with...
+  <a href=""><img src="https://img.shields.io/badge/html5-#E34F26?style=for-the-badge&logo=기술스택아이콘&logoColor=white"></a>
+ 
+ 🌱 I’m currently learning JavaScript
 - 📫 How to reach me
   Instagram @seon._.nieee
 
