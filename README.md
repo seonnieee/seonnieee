@@ -4,10 +4,10 @@
 <p align='center'>
 💌E-mail <a href="mailto:kseon329@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 👩‍💻Blog <a href="https://blog.naver.com/seonnieee_"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
-👩‍💻Instagram <a href="https://instagram.com/seon._.nieee"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></p>
+🖐Instagram <a href="https://instagram.com/seon._.nieee"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></p>
 
 <hr>
-🤞🤞🤞🤞🤞🤞
+<p align='center'>🤞🤞🤞🤞🤞🤞</p>
 
 <h4 align='center'>👀 I’m interested in programming!</h4>
 
@@ -22,11 +22,9 @@
 </p>
 
 <hr>
-🤞🤞🤞🤞🤞🤞
- 
- <h4 align='center'>🌱 I’m currently learning...</h4>
-- 📫 How to reach me
-  Instagram @seon._.nieee
+<p align='center'>🤞🤞🤞🤞🤞🤞</p>
+
+<h4 align='center'>📚 I’m currently learning...</h4>
 
 <!---
 seonnieee/seonnieee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
