@@ -1,8 +1,8 @@
 <h1 align='center'>👋 Hi, I’m kiseon Lee</h1>
 
 
-<p align='center'>💌E-mail <a href="mailto:kseon329@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> </a><p>
-<p align='center'>👩‍💻Blog <a href="https://blog.naver.com/seonnieee_"><img src="https://img.shields.io/badge/naver-#03C75A?style=for-the-badge&logo=naver&logoColor=white"></a></p>
+<p align='center'>💌E-mail <a href="mailto:kseon329@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a><p>
+<p align='center'>👩‍💻Blog <a href="https://blog.naver.com/seonnieee_"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a></p>
 
 
 <h4 align='center'>👀 I’m interested in programming!</h4>
