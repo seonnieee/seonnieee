@@ -6,7 +6,7 @@
 <h4 align='center'>👀 I’m interested in programming!</h4>
 
  💻 I’m currently working with...
-  <a href=""><img src="https://img.shields.io/badge/html5-#E34F26?style=for-the-badge&logo=기술스택아이콘&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/html5-#E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
  
  🌱 I’m currently learning JavaScript
 - 📫 How to reach me
