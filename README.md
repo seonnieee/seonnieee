@@ -7,8 +7,10 @@
 
 <h4 align='center'>👀 I’m interested in programming!</h4>
 
- 💻 I’m currently working with...
-  <a href=""><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<p align='center'>
+<h4> 💻 I’m currently working with...</h4>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</p>
  
  🌱 I’m currently learning JavaScript
 - 📫 How to reach me
